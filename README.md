@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React and Redux Toolkit Query and Chartjs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+live: https://cryptoverse-azx9.onrender.com/
 
 ## Available Scripts
 
